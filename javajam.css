@@ -1,0 +1,38 @@
+body {
+    background-color: #fcebb6;
+    color: #221811;
+}
+
+nav {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    padding: 20px;
+    
+}
+
+h3 {
+    font-weight: 600;
+}
+
+main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    margin-left: 10%;
+}
+
+footer, h1 {
+    background-color: #d2b48c;
+    text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+#address {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
