@@ -20,6 +20,18 @@ h3 {
     font-weight: 600;
 }
 
+/* img {
+    float: right;
+    width: 40%;
+    height: 100%;
+    clear: both;
+} */
+
+.main-content img {
+    float: right; 
+    clear: boths;
+}
+
 main {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
@@ -31,6 +43,7 @@ footer, h1 {
     text-align: center;
     margin-right: 10%;
     margin-left: 10%;
+    clear: boths;
 }
 
 #address {
