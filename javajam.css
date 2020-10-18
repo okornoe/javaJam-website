@@ -1,3 +1,8 @@
+
+*{
+    box-sizing: border-box;
+}
+
 body {
     background-color: #fcebb6;
     color: #221811;
@@ -14,6 +19,10 @@ body {
     font-size: 30px;
     text-align: center;
     text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    background-color: #221811;
+    color: #fcebb6;
 }
 
 h1 {
