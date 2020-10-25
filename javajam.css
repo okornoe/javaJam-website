@@ -4,7 +4,7 @@
 }
 
 body {
-    /* background-color: #fcebb6; */
+    background-color: #fcebb6;
     color: #221811;
 }
 
@@ -12,17 +12,18 @@ body {
     font-size: 30px;
     font-weight: bold;
     padding: 5px;
-    margin-left: 132px;
+    margin-left: 17.5%;
+    /* margin-right: 50%; */
 }
 
 .main-content {
     background-color:  #FEF6C2;
     margin-left: 132px;
+    margin-right: 600px;
 }
 
 .main-text {
     margin-top: 60px;
-
 }
 
 .nav {
@@ -31,14 +32,16 @@ body {
     text-align: center;
     text-decoration: none;
     width: 200px;
-    height: 168px;
+    height: 154px;
     float: left;
     background-color: #221811;
     color: #FEF6C2;
+    clear: left;
 }
 
 #navside{
     margin-left: 130px;
+    background-color: #221811;
 }
 
 .nav a:hover {
@@ -53,6 +56,10 @@ body {
     color: #D2B48C;
 }
 
+#coffeeimg {
+    background-color: #221811;
+}
+
 #heroroad {
     background-size: 100%;
     width: 100%;
@@ -60,13 +67,13 @@ body {
 }
 #heroguitar{
     background-size: 100%;
-    width: 100%;
+    /* width: 100px; */
     height: 250px;
 }
 
 #heromugs{
     background-size: 100%;
-    width: 100%;
+    /* width: 100%; */
     height: 250px;
 }
 main {
@@ -76,6 +83,7 @@ main {
     padding-right: 0px;
     padding-top: 0px;
     margin-left: 200px;
+    margin-right: 70px;
     display: block;
 }
 .body-content{
@@ -85,8 +93,8 @@ main {
 footer, #head-title {
     background-color: #d2b48c;
     text-align: center;
-    margin-right: 10%;
-    margin-left: 20%;
+    margin-right: 35%;
+    
 }
 
 h4 {
@@ -108,9 +116,10 @@ h4 {
 /* Question 7 */
 footer {
     border-color: #221811;
-    margin-top: 70px;
+    margin-top: 0px;
     padding-bottom: 10px;
     border-top: solid 2px ;
+    margin-left: 7%;
 }
 
 .footer-a{
